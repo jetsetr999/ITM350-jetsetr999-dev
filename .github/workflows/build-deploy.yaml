@@ -5,7 +5,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: jetsetr999/itm350-jetsetr999-bb
+  REPO_NAME: vader9999/itm350-jetsetr999-bb
 
 jobs:
   if_merged:
