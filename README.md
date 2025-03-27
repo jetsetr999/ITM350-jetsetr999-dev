@@ -3,6 +3,7 @@
 This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction). In the tutorial we build a events bulletin board application and cover the basics of [Vue](http://vuejs.org/).
 
 
+
 ## Installation
 
 Change the directory to `node-bulletin-board` and follow the commands:
